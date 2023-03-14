@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852640661003",
+    "project_id": "tripto-c4641",
+    "storage_bucket": "tripto-c4641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852640661003:android:4c516d77331065dd98510e",
+        "android_client_info": {
+          "package_name": "com.example.trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852640661003-rfmpbkr616q7vltq9a8es5f02bsjms3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3frx4t_Z06zzRsRqromBC1iy6kSd55w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852640661003-rfmpbkr616q7vltq9a8es5f02bsjms3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
